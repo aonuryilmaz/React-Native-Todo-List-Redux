@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "sdkVersion": "21.0.0",
+    "androidStatusBarColor": "#334393",
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#334393"
+    },
+    "android": {
+      "package": "OnurTodos"
+    },
+    "name": "onurTodo",
+    "slug": "onurtodo",
+    "version": "0.1.0",
+    "isDetached": true,
+    "detach": {
+      "scheme": "exp16a30d7ae0fb40c68982f23ab6a529ac",
+      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v1.20.0-sdk21.0.0-38791499-fe99-4600-950d-cf7e2e85cea9.tar.gz"
+    }
+  }
+}
